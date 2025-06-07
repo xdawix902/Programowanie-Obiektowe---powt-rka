@@ -1,0 +1,14 @@
+E:\c#\Programowanie-Obiektowe---powt-rka\1\Project\bin\Debug\net8.0\Project.exe
+E:\c#\Programowanie-Obiektowe---powt-rka\1\Project\bin\Debug\net8.0\Project.deps.json
+E:\c#\Programowanie-Obiektowe---powt-rka\1\Project\bin\Debug\net8.0\Project.runtimeconfig.json
+E:\c#\Programowanie-Obiektowe---powt-rka\1\Project\bin\Debug\net8.0\Project.dll
+E:\c#\Programowanie-Obiektowe---powt-rka\1\Project\bin\Debug\net8.0\Project.pdb
+E:\c#\Programowanie-Obiektowe---powt-rka\1\Project\obj\Debug\net8.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Programowanie-Obiektowe---powt-rka\1\Project\obj\Debug\net8.0\Project.AssemblyInfoInputs.cache
+E:\c#\Programowanie-Obiektowe---powt-rka\1\Project\obj\Debug\net8.0\Project.AssemblyInfo.cs
+E:\c#\Programowanie-Obiektowe---powt-rka\1\Project\obj\Debug\net8.0\Project.csproj.CoreCompileInputs.cache
+E:\c#\Programowanie-Obiektowe---powt-rka\1\Project\obj\Debug\net8.0\Project.dll
+E:\c#\Programowanie-Obiektowe---powt-rka\1\Project\obj\Debug\net8.0\refint\Project.dll
+E:\c#\Programowanie-Obiektowe---powt-rka\1\Project\obj\Debug\net8.0\Project.pdb
+E:\c#\Programowanie-Obiektowe---powt-rka\1\Project\obj\Debug\net8.0\Project.genruntimeconfig.cache
+E:\c#\Programowanie-Obiektowe---powt-rka\1\Project\obj\Debug\net8.0\ref\Project.dll
