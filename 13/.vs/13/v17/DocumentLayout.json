@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07A41E36-9D7F-44E4-98C4-10EE36F5F55E}|Z1\\Z1.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe---powt-rka\\13\\z1\\ticketseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A41E36-9D7F-44E4-98C4-10EE36F5F55E}|Z1\\Z1.csproj|solutionrelative:z1\\ticketseller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435019A3-A0C4-4BEB-AACF-E31353A6CA9C}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe---powt-rka\\13\\z1.tests\\ticketsellertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435019A3-A0C4-4BEB-AACF-E31353A6CA9C}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\ticketsellertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A41E36-9D7F-44E4-98C4-10EE36F5F55E}|Z1\\Z1.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe---powt-rka\\13\\z1\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A41E36-9D7F-44E4-98C4-10EE36F5F55E}|Z1\\Z1.csproj|solutionrelative:z1\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435019A3-A0C4-4BEB-AACF-E31353A6CA9C}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe---powt-rka\\13\\z1.tests\\tickettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435019A3-A0C4-4BEB-AACF-E31353A6CA9C}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\tickettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435019A3-A0C4-4BEB-AACF-E31353A6CA9C}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe---powt-rka\\13\\z1.tests\\viptickettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435019A3-A0C4-4BEB-AACF-E31353A6CA9C}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\viptickettests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07A41E36-9D7F-44E4-98C4-10EE36F5F55E}|Z1\\Z1.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe---powt-rka\\13\\z1\\iticketgetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07A41E36-9D7F-44E4-98C4-10EE36F5F55E}|Z1\\Z1.csproj|solutionrelative:z1\\iticketgetter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\13\\Z1\\Ticket.cs",
+              "RelativeDocumentMoniker": "Z1\\Ticket.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\13\\Z1\\Ticket.cs",
+              "RelativeToolTip": "Z1\\Ticket.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwBIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:30:18.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VIPTicketTests.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\13\\Z1.Tests\\VIPTicketTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\VIPTicketTests.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\13\\Z1.Tests\\VIPTicketTests.cs",
+              "RelativeToolTip": "Z1.Tests\\VIPTicketTests.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:29:36.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketTests.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\13\\Z1.Tests\\TicketTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\TicketTests.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\13\\Z1.Tests\\TicketTests.cs",
+              "RelativeToolTip": "Z1.Tests\\TicketTests.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:29:32.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITicketGetter.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\13\\Z1\\ITicketGetter.cs",
+              "RelativeDocumentMoniker": "Z1\\ITicketGetter.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\13\\Z1\\ITicketGetter.cs",
+              "RelativeToolTip": "Z1\\ITicketGetter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:29:11.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketSeller.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\13\\Z1\\TicketSeller.cs",
+              "RelativeDocumentMoniker": "Z1\\TicketSeller.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\13\\Z1\\TicketSeller.cs",
+              "RelativeToolTip": "Z1\\TicketSeller.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA3wDcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:28:59.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketSellerTests.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\13\\Z1.Tests\\TicketSellerTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\TicketSellerTests.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\13\\Z1.Tests\\TicketSellerTests.cs",
+              "RelativeToolTip": "Z1.Tests\\TicketSellerTests.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:28:45.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

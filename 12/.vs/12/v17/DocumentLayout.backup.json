@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F44DC354-7E36-46B9-A49C-5EA9C895580A}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe---powt-rka\\12\\z1.tests\\cz\u0142onekzespo\u0142utests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44DC354-7E36-46B9-A49C-5EA9C895580A}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\cz\u0142onekzespo\u0142utests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFD6C8B-836F-43E4-AD0E-86F9D0798AB4}|Z1\\Z1.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe---powt-rka\\12\\z1\\cz\u0142onekzepso\u0142u.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DFD6C8B-836F-43E4-AD0E-86F9D0798AB4}|Z1\\Z1.csproj|solutionrelative:z1\\cz\u0142onekzepso\u0142u.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cz\u0142onekZespo\u0142uTests.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\12\\Z1.Tests\\Cz\u0142onekZespo\u0142uTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\Cz\u0142onekZespo\u0142uTests.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\12\\Z1.Tests\\Cz\u0142onekZespo\u0142uTests.cs",
+              "RelativeToolTip": "Z1.Tests\\Cz\u0142onekZespo\u0142uTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:27:36.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cz\u0142onekZepso\u0142u.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\12\\Z1\\Cz\u0142onekZepso\u0142u.cs",
+              "RelativeDocumentMoniker": "Z1\\Cz\u0142onekZepso\u0142u.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\12\\Z1\\Cz\u0142onekZepso\u0142u.cs",
+              "RelativeToolTip": "Z1\\Cz\u0142onekZepso\u0142u.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T17:25:34.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
