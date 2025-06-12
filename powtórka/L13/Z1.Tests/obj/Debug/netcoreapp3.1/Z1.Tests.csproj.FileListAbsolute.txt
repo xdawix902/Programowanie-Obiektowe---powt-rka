@@ -1,0 +1,10 @@
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe---powt-rka\powtórka\L13\Z1.Tests\bin\Debug\netcoreapp3.1\Z1.Tests.deps.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe---powt-rka\powtórka\L13\Z1.Tests\bin\Debug\netcoreapp3.1\Z1.Tests.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe---powt-rka\powtórka\L13\Z1.Tests\bin\Debug\netcoreapp3.1\Z1.Tests.pdb
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe---powt-rka\powtórka\L13\Z1.Tests\obj\Debug\netcoreapp3.1\Z1.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe---powt-rka\powtórka\L13\Z1.Tests\obj\Debug\netcoreapp3.1\Z1.Tests.AssemblyInfoInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe---powt-rka\powtórka\L13\Z1.Tests\obj\Debug\netcoreapp3.1\Z1.Tests.AssemblyInfo.cs
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe---powt-rka\powtórka\L13\Z1.Tests\obj\Debug\netcoreapp3.1\Z1.Tests.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe---powt-rka\powtórka\L13\Z1.Tests\obj\Debug\netcoreapp3.1\Z1.Tests.sourcelink.json
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe---powt-rka\powtórka\L13\Z1.Tests\obj\Debug\netcoreapp3.1\Z1.Tests.dll
+C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe---powt-rka\powtórka\L13\Z1.Tests\obj\Debug\netcoreapp3.1\Z1.Tests.pdb

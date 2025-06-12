@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\powt\u00F3rka\\P_123123123\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6F5DA1-6CEB-4659-8E13-179E61149C59}|Z1\\Z1.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe---powt-rka\\powt\u00F3rka\\p_123123123\\z1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6F5DA1-6CEB-4659-8E13-179E61149C59}|Z1\\Z1.csproj|solutionrelative:z1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD93A16B-B233-49D3-B67B-D3C48B7179AC}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe---powt-rka\\powt\u00F3rka\\p_123123123\\z1.tests\\zootests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD93A16B-B233-49D3-B67B-D3C48B7179AC}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\zootests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6F5DA1-6CEB-4659-8E13-179E61149C59}|Z1\\Z1.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe---powt-rka\\powt\u00F3rka\\p_123123123\\z1\\animalcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6F5DA1-6CEB-4659-8E13-179E61149C59}|Z1\\Z1.csproj|solutionrelative:z1\\animalcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6F5DA1-6CEB-4659-8E13-179E61149C59}|Z1\\Z1.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe---powt-rka\\powt\u00F3rka\\p_123123123\\z1\\animaleventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6F5DA1-6CEB-4659-8E13-179E61149C59}|Z1\\Z1.csproj|solutionrelative:z1\\animaleventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6F5DA1-6CEB-4659-8E13-179E61149C59}|Z1\\Z1.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe---powt-rka\\powt\u00F3rka\\p_123123123\\z1\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6F5DA1-6CEB-4659-8E13-179E61149C59}|Z1\\Z1.csproj|solutionrelative:z1\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\powt\u00F3rka\\P_123123123\\Z1\\Dog.cs",
+              "RelativeDocumentMoniker": "Z1\\Dog.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\powt\u00F3rka\\P_123123123\\Z1\\Dog.cs",
+              "RelativeToolTip": "Z1\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:23:21.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZooTests.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\powt\u00F3rka\\P_123123123\\Z1.Tests\\ZooTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\ZooTests.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\powt\u00F3rka\\P_123123123\\Z1.Tests\\ZooTests.cs",
+              "RelativeToolTip": "Z1.Tests\\ZooTests.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:22:20.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimalCollection.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\powt\u00F3rka\\P_123123123\\Z1\\AnimalCollection.cs",
+              "RelativeDocumentMoniker": "Z1\\AnimalCollection.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\powt\u00F3rka\\P_123123123\\Z1\\AnimalCollection.cs",
+              "RelativeToolTip": "Z1\\AnimalCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:21:14.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Zoo.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\powt\u00F3rka\\P_123123123\\Z1\\Zoo.cs",
+              "RelativeDocumentMoniker": "Z1\\Zoo.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\powt\u00F3rka\\P_123123123\\Z1\\Zoo.cs",
+              "RelativeToolTip": "Z1\\Zoo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:20:28.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnimalEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\powt\u00F3rka\\P_123123123\\Z1\\AnimalEventArgs.cs",
+              "RelativeDocumentMoniker": "Z1\\AnimalEventArgs.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\powt\u00F3rka\\P_123123123\\Z1\\AnimalEventArgs.cs",
+              "RelativeToolTip": "Z1\\AnimalEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T14:20:14.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

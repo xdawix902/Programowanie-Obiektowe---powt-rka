@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Z1.Tests</id>
+    <version>1.0.0</version>
+    <authors>Z1.Tests</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="04e1d42a52933fbe7e98505b1cda4d9adfcef566" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\dawid\Desktop\ProgObiek\Programowanie-Obiektowe---powt-rka\powtórka\L13\Z1.Tests\bin\Debug\netcoreapp3.1\Z1.Tests.dll" target="lib\netcoreapp3.1\Z1.Tests.dll" />
+  </files>
+</package>
