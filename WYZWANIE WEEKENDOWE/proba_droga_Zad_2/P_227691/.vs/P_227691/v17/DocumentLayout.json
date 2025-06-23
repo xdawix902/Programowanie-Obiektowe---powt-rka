@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c#\\Programowanie-Obiektowe---powt-rka\\WYZWANIE WEEKENDOWE\\proba_droga_Zad_2\\P_227691\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{945D844F-BBD6-42BA-9E4E-65E522EDE6D5}|Z1\\Z1.csproj|e:\\c#\\programowanie-obiektowe---powt-rka\\wyzwanie weekendowe\\proba_droga_zad_2\\p_227691\\z1\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{945D844F-BBD6-42BA-9E4E-65E522EDE6D5}|Z1\\Z1.csproj|solutionrelative:z1\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6D69DA-FEB8-4500-A599-3A3ADC71424D}|Z1.Tests\\Z1.Tests.csproj|e:\\c#\\programowanie-obiektowe---powt-rka\\wyzwanie weekendowe\\proba_droga_zad_2\\p_227691\\z1.tests\\indexertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6D69DA-FEB8-4500-A599-3A3ADC71424D}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\indexertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zoo.cs",
+              "DocumentMoniker": "E:\\c#\\Programowanie-Obiektowe---powt-rka\\WYZWANIE WEEKENDOWE\\proba_droga_Zad_2\\P_227691\\Z1\\Zoo.cs",
+              "RelativeDocumentMoniker": "Z1\\Zoo.cs",
+              "ToolTip": "E:\\c#\\Programowanie-Obiektowe---powt-rka\\WYZWANIE WEEKENDOWE\\proba_droga_Zad_2\\P_227691\\Z1\\Zoo.cs",
+              "RelativeToolTip": "Z1\\Zoo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:46:54.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IndexerTests.cs",
+              "DocumentMoniker": "E:\\c#\\Programowanie-Obiektowe---powt-rka\\WYZWANIE WEEKENDOWE\\proba_droga_Zad_2\\P_227691\\Z1.Tests\\IndexerTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\IndexerTests.cs",
+              "ToolTip": "E:\\c#\\Programowanie-Obiektowe---powt-rka\\WYZWANIE WEEKENDOWE\\proba_droga_Zad_2\\P_227691\\Z1.Tests\\IndexerTests.cs",
+              "RelativeToolTip": "Z1.Tests\\IndexerTests.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:46:50.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

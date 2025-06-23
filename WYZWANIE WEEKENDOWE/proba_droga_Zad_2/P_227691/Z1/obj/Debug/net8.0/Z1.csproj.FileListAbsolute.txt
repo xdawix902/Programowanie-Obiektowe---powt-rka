@@ -1,0 +1,13 @@
+E:\c#\Programowanie-Obiektowe---powt-rka\WYZWANIE WEEKENDOWE\proba_droga_Zad_2\P_227691\Z1\bin\Debug\net8.0\Z1.deps.json
+E:\c#\Programowanie-Obiektowe---powt-rka\WYZWANIE WEEKENDOWE\proba_droga_Zad_2\P_227691\Z1\bin\Debug\net8.0\Z1.dll
+E:\c#\Programowanie-Obiektowe---powt-rka\WYZWANIE WEEKENDOWE\proba_droga_Zad_2\P_227691\Z1\bin\Debug\net8.0\Z1.pdb
+E:\c#\Programowanie-Obiektowe---powt-rka\WYZWANIE WEEKENDOWE\proba_droga_Zad_2\P_227691\Z1\obj\Debug\net8.0\Z1.csproj.AssemblyReference.cache
+E:\c#\Programowanie-Obiektowe---powt-rka\WYZWANIE WEEKENDOWE\proba_droga_Zad_2\P_227691\Z1\obj\Debug\net8.0\Z1.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Programowanie-Obiektowe---powt-rka\WYZWANIE WEEKENDOWE\proba_droga_Zad_2\P_227691\Z1\obj\Debug\net8.0\Z1.AssemblyInfoInputs.cache
+E:\c#\Programowanie-Obiektowe---powt-rka\WYZWANIE WEEKENDOWE\proba_droga_Zad_2\P_227691\Z1\obj\Debug\net8.0\Z1.AssemblyInfo.cs
+E:\c#\Programowanie-Obiektowe---powt-rka\WYZWANIE WEEKENDOWE\proba_droga_Zad_2\P_227691\Z1\obj\Debug\net8.0\Z1.csproj.CoreCompileInputs.cache
+E:\c#\Programowanie-Obiektowe---powt-rka\WYZWANIE WEEKENDOWE\proba_droga_Zad_2\P_227691\Z1\obj\Debug\net8.0\Z1.sourcelink.json
+E:\c#\Programowanie-Obiektowe---powt-rka\WYZWANIE WEEKENDOWE\proba_droga_Zad_2\P_227691\Z1\obj\Debug\net8.0\Z1.dll
+E:\c#\Programowanie-Obiektowe---powt-rka\WYZWANIE WEEKENDOWE\proba_droga_Zad_2\P_227691\Z1\obj\Debug\net8.0\refint\Z1.dll
+E:\c#\Programowanie-Obiektowe---powt-rka\WYZWANIE WEEKENDOWE\proba_droga_Zad_2\P_227691\Z1\obj\Debug\net8.0\Z1.pdb
+E:\c#\Programowanie-Obiektowe---powt-rka\WYZWANIE WEEKENDOWE\proba_droga_Zad_2\P_227691\Z1\obj\Debug\net8.0\ref\Z1.dll
