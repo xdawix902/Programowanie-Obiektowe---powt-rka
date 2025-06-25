@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\powt\u00F3rka\\P_227691\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A348B01-60BE-4C2D-9ACD-642CF7F38250}|Z1\\Z1.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe---powt-rka\\powt\u00F3rka\\p_227691\\z1\\animalcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A348B01-60BE-4C2D-9ACD-642CF7F38250}|Z1\\Z1.csproj|solutionrelative:z1\\animalcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726EEA63-A88C-4C2E-BC41-73173FF223D1}|Z1.Tests\\Z1.Tests.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe---powt-rka\\powt\u00F3rka\\p_227691\\z1.tests\\animalcollectiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726EEA63-A88C-4C2E-BC41-73173FF223D1}|Z1.Tests\\Z1.Tests.csproj|solutionrelative:z1.tests\\animalcollectiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimalCollection.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\powt\u00F3rka\\P_227691\\Z1\\AnimalCollection.cs",
+              "RelativeDocumentMoniker": "Z1\\AnimalCollection.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\powt\u00F3rka\\P_227691\\Z1\\AnimalCollection.cs",
+              "RelativeToolTip": "Z1\\AnimalCollection.cs",
+              "ViewState": "AgIAAAQAAABgzJ6Y9xMqwAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:14:55.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnimalCollectionTests.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\powt\u00F3rka\\P_227691\\Z1.Tests\\AnimalCollectionTests.cs",
+              "RelativeDocumentMoniker": "Z1.Tests\\AnimalCollectionTests.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\powt\u00F3rka\\P_227691\\Z1.Tests\\AnimalCollectionTests.cs",
+              "RelativeToolTip": "Z1.Tests\\AnimalCollectionTests.cs",
+              "ViewState": "AgIAABQAAAAA153uWM4YwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:14:44.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
