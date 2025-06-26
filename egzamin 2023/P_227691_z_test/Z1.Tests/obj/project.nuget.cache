@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "EorW2FG4AVM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\egzamin 2023\\P_227691_z_test\\Z1.Tests\\Z1.Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dawid\\.nuget\\packages\\microsoft.codecoverage\\17.2.1\\microsoft.codecoverage.17.2.1.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\microsoft.net.test.sdk\\17.2.1\\microsoft.net.test.sdk.17.2.1.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.2.1\\microsoft.testplatform.objectmodel.17.2.1.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\microsoft.testplatform.testhost\\17.2.1\\microsoft.testplatform.testhost.17.2.1.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
+    "C:\\Users\\dawid\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

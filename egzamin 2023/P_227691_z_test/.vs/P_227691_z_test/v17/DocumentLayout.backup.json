@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\egzamin 2023\\P_227691_z_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62597982-F5C9-4F6C-BD66-D2E059B2B2DC}|Z1\\Z1.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe---powt-rka\\egzamin 2023\\p_227691_z_test\\z1\\systembankowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62597982-F5C9-4F6C-BD66-D2E059B2B2DC}|Z1\\Z1.csproj|solutionrelative:z1\\systembankowy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62597982-F5C9-4F6C-BD66-D2E059B2B2DC}|Z1\\Z1.csproj|c:\\users\\dawid\\desktop\\progobiek\\programowanie-obiektowe---powt-rka\\egzamin 2023\\p_227691_z_test\\z1\\operacjafinansowaeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62597982-F5C9-4F6C-BD66-D2E059B2B2DC}|Z1\\Z1.csproj|solutionrelative:z1\\operacjafinansowaeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OperacjaFinansowaEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\egzamin 2023\\P_227691_z_test\\Z1\\OperacjaFinansowaEventArgs.cs",
+              "RelativeDocumentMoniker": "Z1\\OperacjaFinansowaEventArgs.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\egzamin 2023\\P_227691_z_test\\Z1\\OperacjaFinansowaEventArgs.cs",
+              "RelativeToolTip": "Z1\\OperacjaFinansowaEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:57:21.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SystemBankowy.cs",
+              "DocumentMoniker": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\egzamin 2023\\P_227691_z_test\\Z1\\SystemBankowy.cs",
+              "RelativeDocumentMoniker": "Z1\\SystemBankowy.cs",
+              "ToolTip": "C:\\Users\\dawid\\Desktop\\ProgObiek\\Programowanie-Obiektowe---powt-rka\\egzamin 2023\\P_227691_z_test\\Z1\\SystemBankowy.cs",
+              "RelativeToolTip": "Z1\\SystemBankowy.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:55:01.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
